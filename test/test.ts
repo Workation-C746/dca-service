@@ -2,4 +2,4 @@ import { InjectivePlugin } from "../src/plugins/injective";
 
 const injectivePlugin = new InjectivePlugin();
 
-injectivePlugin.sendTransaction(1, "inj1g8lwgz26ej7crwt906wp6wsnwjteh2qk0h4n2n", "inj1aayaah777pwaudtzlxkemytwchpy05dl03d4xt");
+injectivePlugin.sendTransaction(1, "inj1cdymmkwla6v545l4jp4yu59elelqmd3ptx6lrs", "inj1fp4756usys7jlulwyu36gas9cvmpc0v498dzjj");
