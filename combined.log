@@ -1,0 +1,5 @@
+{"level":"info","message":"Using wallet address: inj1cdymmkwla6v545l4jp4yu59elelqmd3ptx6lrs","timestamp":"2025-03-12T16:36:02.238Z"}
+{"level":"info","message":"Sending swapped tokens to: inj1fp4756usys7jlulwyu36gas9cvmpc0v498dzjj","timestamp":"2025-03-12T16:36:02.242Z"}
+{"level":"info","message":"Swap amount: 1 USDT","timestamp":"2025-03-12T16:36:02.243Z"}
+{"level":"info","message":"Swap transaction successful: 6E399EA07EE1AFFA5B99AEE838801AC74A0CE1E06E59E684F56B48EA4B627801","timestamp":"2025-03-12T16:36:05.660Z"}
+{"level":"info","message":"Swapped tokens need to be sent to inj1fp4756usys7jlulwyu36gas9cvmpc0v498dzjj","timestamp":"2025-03-12T16:36:05.662Z"}
